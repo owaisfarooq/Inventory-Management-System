@@ -96,5 +96,3 @@ It will be a full-fledged application that will help demonstrate my proficiency 
 5. Start MongoDB server:
      ```bash
    mongod
-
-6.
